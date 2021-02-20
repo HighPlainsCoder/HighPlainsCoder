@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Craig Ewert, a programmer from Erie, CO (near Denver and Boulder).
+
 <!--
 **HighPlainsCoder/HighPlainsCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
